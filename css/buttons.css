@@ -1,0 +1,41 @@
+.left{
+    width: 44px;
+    height: 107px;
+    border: none;
+    background: linear-gradient(to right, #0000005f, #213d58);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.right{
+    width: 44px;
+    height: 107px;
+    border: none;
+    background: linear-gradient(to right, #213d584b, #0000005f);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.left:hover{
+    background: linear-gradient(to right, #ffffff3f, #213d5800);
+    cursor: pointer;
+}
+
+
+.right:hover{
+    background: linear-gradient(to right, #213d5800, #ffffff3f);
+}
+
+.left img{
+    width: 50px;
+}
+
+.right img{
+    width: 50px;
+    transform: rotate(180deg);
+}
+

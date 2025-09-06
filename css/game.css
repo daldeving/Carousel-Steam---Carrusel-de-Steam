@@ -1,0 +1,7 @@
+.game{
+    width: 1028px;
+    height: 352px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

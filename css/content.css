@@ -1,0 +1,8 @@
+#content{
+    width: 100%;
+    height: 100vh;
+    background-color: #213d58;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
