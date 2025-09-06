@@ -1,4 +1,4 @@
-<h1>Carousel Steam-Carrusel de Steam</h1>
+<h1>Carrusel de Steam</h1>
 <p style="font-family: system-ui, sans-serif; font-size: 18px;">
   Carrusel de Steam con 
   <span style="color:#E34F26; font-weight:700;">HTML</span>, 
